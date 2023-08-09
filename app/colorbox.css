@@ -1,0 +1,54 @@
+.colorbox{
+    border:solid red 1px;
+    height:300px;
+             
+}
+.innercolorbox{
+    border:solid black 1px;
+    height:100%;
+    width:400px;
+    margin :auto;
+}
+.colorcount{
+    border:solid green 1px;
+    height:49.85%;
+    
+}
+.color{
+    border:solid yellow 1px;
+    width:24.80%;
+    height:99%;
+    float:left;
+   
+}
+.colorbox2{
+    border:solid red 1px;
+    width:100%;
+    height:600px;
+             
+}
+.redbox{
+    border:solid blue 1px;
+    height:50%;
+    width:49.77%;  
+    float:left;
+}
+.greenbox{
+    border:solid blue 1px;
+    height:50%;
+    width:50%;  
+    float:left;
+}
+.yellowbox{
+    border:solid blue 1px;
+    height:49.70%;
+    width:49.77%;  
+    float:left;
+ 
+}
+.blackbox{
+    border:solid blue 1px;
+    height:49.70%;
+    width:50%;  
+    float:left;
+}
